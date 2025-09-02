@@ -20,10 +20,10 @@ span {
 span.resultado {
   color: var(--secundario);
   font-size: 3rem;
-  height: 3rem;
+  height: 2rem;
 }
 
 span.display {
   font-size: 4rem;
-  height: 4rem;
+  height: 3rem;
 }
